@@ -1,6 +1,4 @@
-<p 
-   <img src="[![image](https://user-images.githubusercontent.com/116687257/232043084-cb6809b2-14af-4ac6-9197-7b74d8f05753.png)](https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif)" />
-</p>
+![programmer](https://user-images.githubusercontent.com/116687257/232043368-f5ccede8-7f80-4f4e-8e08-6b630881d82d.gif)
 <p align="center">
   <img src="https://badge.mediaplus.ma/binary/smounafi" alt="animated"/>
 </p>
