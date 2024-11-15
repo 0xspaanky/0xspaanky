@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MOUNAFIS SALAH-EDDINE</h1>
 <h3 align="center">A passionate Computer Science Student from Morocco</h3>
 <br><br><br>
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **www.linkedin.com/in/salaheddinemn**
 <br>
