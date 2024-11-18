@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mounafis Salah-Eddine</h1>
 <h3 align="center">A passionate backend developer from Morocco && a 1337 Coding School - UM6P (42 Network) Student</h3>
-[![smounafi's 42 stats](https://badge.mediaplus.ma/greenbinary/smounafi)]
+[![smounafi's 42 stats](https://badge.mediaplus.ma/greenbinary/smounafi)](https://github.com/oakoudad/badge42)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xspaanky&label=Profile%20views&color=0e75b6&style=flat" alt="0xspaanky" /> </p>
 
 - 🔭 I’m currently working on: **ft_transcendence**
