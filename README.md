@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mounafis Salah-Eddine</h1>
 <h3 align="center">A passionate backend developer from Morocco && a 1337 Coding School - UM6P (42 Network) Student</h3>
-[![smounafi's 42 stats](https://badge.mediaplus.ma/greenbinary/smounafi)](https://github.com/oakoudad/badge42)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xspaanky&label=Profile%20views&color=0e75b6&style=flat" alt="0xspaanky" /> </p>
 
 - 🔭 I’m currently working on: **ft_transcendence**
@@ -9,6 +8,7 @@
 
 - 📫 How to reach me: **salaheddine.mounafis@gmail.com**
 
+[![smounafi's 42 stats](https://badge.mediaplus.ma/darkblue/smounafi)](https://github.com/oakoudad/badge42)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/salaheddinemounafis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salaheddinemounafis" height="30" width="40" /></a>
