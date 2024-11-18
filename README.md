@@ -10,7 +10,7 @@
 
 <h3 align="left">42 Cursus:</h3>
 
-[![smounafi's 42 stats](https://badge.mediaplus.ma/darkblue/smounafi)]
+![smounafi's 42 stats](https://badge.mediaplus.ma/darkblue/smounafi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
