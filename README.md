@@ -2,10 +2,6 @@
 <h3 align="center">A passionate backend developer from Morocco && a 1337 Coding School - UM6P (42 Network) Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xspaanky&label=Profile%20views&color=0e75b6&style=flat" alt="0xspaanky" /> </p>
 
-- 🔭 I’m currently working on: **ft_transcendence**
-
-- 🌱 I’m currently learning: **Django**
-
 - 📫 How to reach me: **salaheddine.mounafis@gmail.com**
 
 <h3 align="left">42 Cursus:</h3>
