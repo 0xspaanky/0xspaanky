@@ -64,15 +64,6 @@
   </a>
 </div>
 
----
-
-### 42 Cursus
-
-<div align="center">
-  <img src="https://badge.mediaplus.ma/darkblue/smounafi" alt="smounafi's 42 stats" />
-</div>
-
----
 
 ### GitHub Stats
 
@@ -85,7 +76,7 @@
 ### Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xspaanky/0xspaanky/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xspaanky/0xspaanky/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/0xspaanky/0xspaanky/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
 </picture>
