@@ -1,17 +1,91 @@
-<h1 align="center">Hi 👋, I'm Mounafis Salah-Eddine</h1>
-<h3 align="center">A passionate backend developer from Morocco && a 1337 Coding School - UM6P (42 Network) Student</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xspaanky&label=Profile%20views&color=0e75b6&style=flat" alt="0xspaanky" /> </p>
+<h1 align="center">Hi, I'm Mounafis Salah-Eddine</h1>
 
-- 📫 How to reach me: **salaheddine.mounafis@gmail.com**
+<h3 align="center">
+  Backend Developer | 1337 Coding School - UM6P Student | 42 Network
+</h3>
 
-<h3 align="left">42 Cursus:</h3>
-
-![smounafi's 42 stats](https://badge.mediaplus.ma/darkblue/smounafi)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/salaheddinemounafis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salaheddinemounafis" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xspaanky&label=Profile%20views&color=0e75b6&style=flat" alt="0xspaanky" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+### About Me
+
+- Student at **1337 Coding School - UM6P**, part of the **42 Network**
+- Interested in **backend development, cloud infrastructure, DevOps, and AI**
+- Currently improving my skills in **system design, full-stack development, and scalable applications**
+- Reach me at: **salaheddine.mounafis@gmail.com**
+
+---
+
+### Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="55" alt="c logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="cpp logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="nextjs logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="55" alt="nestjs logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=python" height="55" alt="python logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="postgresql logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=aws" height="55" alt="aws logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux logo" />
+</div>
+
+---
+
+### Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/salaheddinemounafis" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
+  </a>
+  <a href="mailto:salaheddine.mounafis@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo" />
+  </a>
+</div>
+
+---
+
+### 42 Cursus
+
+<div align="center">
+  <img src="https://badge.mediaplus.ma/darkblue/smounafi" alt="smounafi's 42 stats" />
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=0xspaanky&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=8&order=3" height="160" alt="streak graph" />
+</div>
+
+---
+
+### Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xspaanky/0xspaanky/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xspaanky/0xspaanky/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/0xspaanky/0xspaanky/output/pacman-contribution-graph.svg">
+</picture>
