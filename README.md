@@ -19,6 +19,16 @@
 
 ---
 
+### 42 Stats
+
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42" target="_blank">
+    <img src="https://badge.mediaplus.ma/colorfulwaves/smounafi" alt="smounafi's 42 stats" />
+  </a>
+</div>
+
+---
+
 ### Tech Stack
 
 <div align="center">
