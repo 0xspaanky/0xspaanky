@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mounafis Salah-Eddine</h1>
 
 <h3 align="center">
-  Backend Developer | 1337 Coding School - UM6P Student | 42 Network
+  Backend Developer | 1337 Coding School Member | 42 Network
 </h3>
 
 <p align="center">
